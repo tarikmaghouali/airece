@@ -1,0 +1,74 @@
+{
+  "restaurant": {
+    "name": "Pepe's Piri Piri",
+    "opening_times": "12:00 to 23:00",
+    "flavours": ["Mango & Lime", "Lemon & Herb", "Mild", "Hot", "Extra Hot", "Extreme"]
+  },
+  "categories": {
+    "grilled_collection": [
+      { "name": "Prime Pitta", "price": 4.29 },
+      { "name": "Chicken XL", "price": 4.29 },
+      { "name": "The Wrap", "price": 4.29 },
+      { "name": "BBQ Sizzler", "price": 4.29 },
+      { "name": "Pepe's Classic (1/4 Chicken)", "price": 3.99 },
+      { "name": "Pepe's Original (Half Chicken)", "price": 5.99 },
+      { "name": "Pepe's Original (Whole Chicken)", "price": 9.99 },
+      { "name": "Pepe's Gourmet Single", "price": 4.99 },
+      { "name": "Chick'N'Rice", "price": 5.49 },
+      { "name": "Chinese Laksa Noodles", "price": 5.49 },
+      { "name": "Chicken Tasca", "price": 4.49 },
+      { "name": "Chicken Burrito", "price": 4.29 },
+      { "name": "Tender Strips", "price": 4.29 },
+      { "name": "Pepe's Wings", "price": 3.99 },
+      { "name": "Pepe's Gourmet Double", "price": 6.99 }
+    ],
+    "salads": [
+      { "name": "Feta Salad", "price": 3.99 },
+      { "name": "Chicken Salad", "price": 4.99 }
+    ],
+    "platters": [
+      { "name": "Wings Platter (18x Wings)", "price": 10.99 },
+      { "name": "Wings Platter (28x Wings)", "price": 16.99 },
+      { "name": "Combo Platter", "description": "1/2 Chicken, 3x Wings, 2x Large Fries, 2x Dips", "price": 10.99 },
+      { "name": "Family Platter", "description": "1x Whole Chicken, 4x Wings, 2x Large Fries, 1x Spicy Rice, 4x Dips", "price": 16.99 },
+      { "name": "Mega Platter", "description": "2x Whole Chickens, 4x Large Fries, 4x Pitta Bread, 4x Dips", "price": 25.99 }
+    ],
+    "sides": [
+      { "name": "3 x Tender Strips", "price": 2.79 },
+      { "name": "3 x Pepe's Wings", "price": 2.79 },
+      { "name": "Mozzarella Sticks", "price": 1.99 },
+      { "name": "Crispy Onion Rings", "price": 1.99 },
+      { "name": "Corn on the Cob", "price": 1.99 },
+      { "name": "Pepe's Wedges", "price": 1.99 },
+      { "name": "Spicy Rice", "price": 2.99 },
+      { "name": "Pepe's Side Salad", "price": 2.49 },
+      { "name": "Regular Fries", "price": 1.49 },
+      { "name": "Large Fries", "price": 1.79 }
+    ],
+    "drinks": [
+      { "name": "Pepsi", "price": 1.19 },
+      { "name": "Diet Pepsi", "price": 0.99 },
+      { "name": "Pepsi Max", "price": 0.99 },
+      { "name": "7 Up", "price": 0.99 },
+      { "name": "Tango", "price": 0.99 },
+      { "name": "Water", "price": 0.99 },
+      { "name": "J2O", "price": 1.49 },
+      { "name": "Redbull", "price": 1.99 },
+      { "name": "1.5ltr Bottle (Pepsi/Tango)", "price": 2.49 }
+    ],
+    "extras": [
+      { "name": "Humous", "price": 0.99 },
+      { "name": "Coleslaw", "price": 0.99 },
+      { "name": "Piri Piri Baked Beans", "price": 0.99 },
+      { "name": "Pitta Bread", "price": 0.79 },
+      { "name": "Cheese Slice", "price": 0.30 },
+      { "name": "Pepe's Chilli Sauce", "price": 0.30 },
+      { "name": "Pepe's Garlic Sauce", "price": 0.30 }
+    ]
+  },
+  "meal_deal": {
+    "description": "Make it a meal with Fries, Drink & Dip",
+    "price": 1.70,
+    "go_large_upgrade": 0.50
+  }
+}
